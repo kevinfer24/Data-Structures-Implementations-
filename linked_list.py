@@ -1,3 +1,6 @@
+# Kevin Fernandez
+# April 14, 2022
+
 # Implementing linked lists
 
 # imports
