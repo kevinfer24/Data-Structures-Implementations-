@@ -1,3 +1,4 @@
+// KEVIN FERNANDEZ
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -46,6 +47,7 @@ struct ListNode *ReverseList (struct ListNode *LN) {
 
 int main()
 {
+    // To test
     int numbers[] = {4,5,6,7,8,555,323,233,222,111,333,456};
     struct ListNode *list1 = MakeList(numbers, sizeof(numbers)/ sizeof(numbers[0]));
     printList(list1);
