@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// Using separate chaining
 typedef struct List {
     int value;
     struct List *tail;
